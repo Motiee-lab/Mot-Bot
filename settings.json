@@ -11,9 +11,9 @@
   "railwayTips": "Use USA East as region for railway, and render. ",
   "GRADIENT_THEME": "retro",
   "knownURL": "https://cassidyredux.onrender.com",
-  "noFB": false,
-  "PREFIX": "#",
-  "NICKNAME": "Cassidy Bot",
+  "noFB": true,
+  "PREFIX": "*",
+  "NICKNAME": "Tarantado ako",
   "CUSTOM_STYLE": {
     "enabled": false,
     "note": "When enabled, this will allow you to customize certain styles of bot responses. {word} represents non-emoji texts and {emojis} represents emojis. Change the TITLE_PATTERN to your likings.",
@@ -21,7 +21,7 @@
   },
   "LOGO": "",
   "ADMINBOT": ["100075058221244", "YOUR_UID"],
-  "EXTRAPREFIX": ["_"],
+  "EXTRAPREFIX": ["/"],
   "MODERATORBOT": [],
   "exitOnError": false,
   "WEB_PASSWORD": "wsshiagwvkljijxxsvddidbdib+_*77s",
@@ -73,8 +73,8 @@
     "note": "DO NOT MODIFY THIS IF YOU DO NOT KNOW WHAT YOU WERE DOING. They serve as .env keys for mongo uri."
   },
   "credentials": {
-    "email": "",
-    "password": "",
+    "email": "grathegreat200812@gmail.com",
+    "password": "grathegreat",
     "email_asEnvKey": false,
     "password_asEnvKey": false,
     "note": "This is for the bot account, not your main account, if email_asEnvKey or password_asEnvKey is true, it will use the .env key provided in email and password fields, this is helpful when hiding the credentials.",
